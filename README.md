@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nishansuwal
 - 👀 I’m interested in javascript and python
+- i have knowledge of pyqt5
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
