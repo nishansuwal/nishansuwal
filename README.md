@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript php and python
 - i have knowledge of pyqt5 , laravel, node, react, next
 - 🌱 I’m currently learning laravel php
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web developer full stack 
 - 📫 How to reach me nishansuwal2020@gmail.com
 
 <!---
